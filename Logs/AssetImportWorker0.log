@@ -1,0 +1,379 @@
+Unity Editor version:    2020.3.28f1 (f5400f52e03f)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #33~20.04.1-Ubuntu SMP Mon Feb 7 14:25:10 UTC 2022
+Kernel version:          5.13.0-30-generic
+Architecture:            x86_64
+Available memory:        9864 MB
+Using pre-set license
+Pro License: NO
+Desktop is 3286 x 1080 @ 60 Hz
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/edgar/Downloads/Unity3DCustomCharacterControllerCapsuleCollisionDetection-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+35145
+Successfully changed project path to: /home/edgar/Downloads/Unity3DCustomCharacterControllerCapsuleCollisionDetection-master
+/home/edgar/Downloads/Unity3DCustomCharacterControllerCapsuleCollisionDetection-master
+Using Asset Import Pipeline V2.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Refreshing native plugins compatible for Editor in 38.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.28f1 (f5400f52e03f)
+[Subsystems] Discovering subsystems at path /home/edgar/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/edgar/Downloads/Unity3DCustomCharacterControllerCapsuleCollisionDetection-master/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: AMD Radeon(TM) Vega 8 Graphics (RAVEN, DRM 3.41.0, 5.13.0-30-generic, LLVM 12.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.0.3
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB
+_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_
+rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_textur
+e_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1787013920
+Initialize mono
+Mono path[0] = '/home/edgar/Unity/Hub/Editor/2020.3.28f1/Editor/Data/Managed'
+Mono path[1] = '/home/edgar/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/edgar/Unity/Hub/Editor/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56113
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/edgar/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/edgar/Unity/Hub/Editor/2020.3.28f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001690 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.784 seconds
+Domain Reload Profiling:
+	ReloadAssembly (784ms)
+		BeginReloadAssembly (68ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (624ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (197ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (10ms)
+				ProcessInitializeOnLoadAttributes (158ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.325 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1326ms)
+		BeginReloadAssembly (185ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1064ms)
+			LoadAssemblies (105ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (378ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (401ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (311ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1562 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1994.
+Total: 12.054674 ms (FindLiveObjects: 0.284775 ms CreateObjectMapping: 0.118634 ms MarkObjects: 11.313129 ms  DeleteObjects: 0.336223 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/CapsuleCharacterCollision/Models/SingleMeshHeadSlant.fbx
+  artifactKey: Guid(5ff503b834c58474f94e361ca295ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/SingleMeshHeadSlant.fbx using Guid(5ff503b834c58474f94e361ca295ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4089e2f99d058bfaea62164a5085ca') in 0.496897 seconds 
+  Import took 0.502133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/LowPolyPlane.fbx
+  artifactKey: Guid(739046fdf0d7c22448d1db5c4bba52c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/LowPolyPlane.fbx using Guid(739046fdf0d7c22448d1db5c4bba52c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857a03978279d409e44c6bceb3a043e8') in 0.015811 seconds 
+  Import took 0.020176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/SingleMeshRamp.fbx
+  artifactKey: Guid(3bc6eee8d8421b34e9edfac764a6ccb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/SingleMeshRamp.fbx using Guid(3bc6eee8d8421b34e9edfac764a6ccb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf8bae046924b529f4b5e3c54503e05') in 0.028828 seconds 
+  Import took 0.033638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/Curve.fbx
+  artifactKey: Guid(ea8171cb945c2634fb1811bd80d302ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/Curve.fbx using Guid(ea8171cb945c2634fb1811bd80d302ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8acb91b07b73519eb53647112bffe0') in 0.019300 seconds 
+  Import took 0.024712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/TestMesh.fbx
+  artifactKey: Guid(9af8f8dda2eeee64085f0063889cad2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/TestMesh.fbx using Guid(9af8f8dda2eeee64085f0063889cad2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba9ff0b18a8ee1892260ae34225e31d6') in 0.020739 seconds 
+  Import took 0.024532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/Building.fbx
+  artifactKey: Guid(a651d16906dc7954a82a5d0954b0940d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/Building.fbx using Guid(a651d16906dc7954a82a5d0954b0940d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5b48b424d653194e1eefe9b8399d9c') in 0.026399 seconds 
+  Import took 0.031216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/SingleMeshSlopeLow.fbx
+  artifactKey: Guid(a4b355caa9677914dbbb9f59173d5835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/SingleMeshSlopeLow.fbx using Guid(a4b355caa9677914dbbb9f59173d5835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e089e432a51bedc77dcfe69567b86db9') in 0.018911 seconds 
+  Import took 0.023495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/CubeIn.fbx
+  artifactKey: Guid(50649c8a77cc82546a856e7bd9553ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/CubeIn.fbx using Guid(50649c8a77cc82546a856e7bd9553ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfbdc99d47669b2cc08525e5df97d28') in 0.016824 seconds 
+  Import took 0.020744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/SingleMeshCorner.fbx
+  artifactKey: Guid(9eb22e9aca5361e429162fcb7e14c1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/SingleMeshCorner.fbx using Guid(9eb22e9aca5361e429162fcb7e14c1d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c159ce10883e27ab98108bc678610d84') in 0.016689 seconds 
+  Import took 0.020676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/WallTest.fbx
+  artifactKey: Guid(229d9cf9ffb8e4c45aeb82003c8a769d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/WallTest.fbx using Guid(229d9cf9ffb8e4c45aeb82003c8a769d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd9ee3144bcfc6e8dd134076736c9d10') in 0.020376 seconds 
+  Import took 0.025247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/CapsuleCharacterCollision/Models/MonkeyHigh.fbx
+  artifactKey: Guid(099700a9bd122a449b30452f5477bf53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Models/MonkeyHigh.fbx using Guid(099700a9bd122a449b30452f5477bf53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb63f5ad4777039532a342361d6e577d') in 0.019073 seconds 
+  Import took 0.023482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.345811 seconds.
+  path: Assets/CapsuleCharacterCollision/Scenes/MeshTreePerformanceTest.unity
+  artifactKey: Guid(5f55b1267f4850b4298006ce1688d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Scenes/MeshTreePerformanceTest.unity using Guid(5f55b1267f4850b4298006ce1688d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291f6dbba07c126e967ff4fcff41e03f') in 0.002519 seconds 
+  Import took 0.008065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.042246 seconds.
+  path: Assets/CapsuleCharacterCollision/Scenes/TestScene.unity
+  artifactKey: Guid(1cf872316f820f448b58342558c08c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Scenes/TestScene.unity using Guid(1cf872316f820f448b58342558c08c7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '604d85eaaf619ec81d62997d4d83c481') in 0.002096 seconds 
+  Import took 0.008157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.616468 seconds.
+  path: Assets/CapsuleCharacterCollision/Prefabs/CharacterController.prefab
+  artifactKey: Guid(6dd0094f6dd0adf4ba055ddc71e81153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Prefabs/CharacterController.prefab using Guid(6dd0094f6dd0adf4ba055ddc71e81153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b12125565212463acf1a0d75f7252ff') in 0.027735 seconds 
+  Import took 0.032562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/CapsuleCharacterCollision/Prefabs/TestSphereDepenetration.prefab
+  artifactKey: Guid(3b34d281a15cdeb45ac64c1c7d7fed18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Prefabs/TestSphereDepenetration.prefab using Guid(3b34d281a15cdeb45ac64c1c7d7fed18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d453134ec8db04db188aef0e931444') in 0.101703 seconds 
+  Import took 0.105827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/CapsuleCharacterCollision/Prefabs/TestCapsuleContacts.prefab
+  artifactKey: Guid(8a6051082e0aa5e40a7954cc282a6714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Prefabs/TestCapsuleContacts.prefab using Guid(8a6051082e0aa5e40a7954cc282a6714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe81f8a413955db9710a63d8f87913c7') in 0.008017 seconds 
+  Import took 0.011934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/CapsuleCharacterCollision/Prefabs/TestSphereContacts.prefab
+  artifactKey: Guid(a1cb64229ffc5434ea05bd7587be4767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Prefabs/TestSphereContacts.prefab using Guid(a1cb64229ffc5434ea05bd7587be4767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1edb433bdda825b95c8b8ead45eb962f') in 0.010894 seconds 
+  Import took 0.015249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/CapsuleCharacterCollision/Prefabs/TestCapsuleDepenetration.prefab
+  artifactKey: Guid(6de5b704c1ee7794cb68ea2b65bc7806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CapsuleCharacterCollision/Prefabs/TestCapsuleDepenetration.prefab using Guid(6de5b704c1ee7794cb68ea2b65bc7806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec1daf8f2ddfb6a4715885eef587781') in 0.015577 seconds 
+  Import took 0.021290 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.005692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.152 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1152ms)
+		BeginReloadAssembly (144ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (939ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (339ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (338ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (54ms)
+				ProcessInitializeOnLoadAttributes (263ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.2 MB.
+System memory in use after: 67.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2011.
+Total: 12.883113 ms (FindLiveObjects: 0.251243 ms CreateObjectMapping: 0.072927 ms MarkObjects: 12.483110 ms  DeleteObjects: 0.074280 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
